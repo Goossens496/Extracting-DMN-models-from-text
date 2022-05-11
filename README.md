@@ -10,7 +10,10 @@ This repository contains the following files of the study to extract decision mo
   * Dependency sentences
     * test_dependency (testset)
      * train_dependency (train set)
-  * Text Classification
+  * Text Classification:
     * test_dependency (testset)
      * train_dependency (train set)
  * Decision Model Extractor Tool
+
+The datasets are provided in a CSV format. For the text classification datasets, each sentence is provided with the according label. 
+For the dependencies datasets, each sentence is also labelled according to the tagging scheme discussed in the paper.
