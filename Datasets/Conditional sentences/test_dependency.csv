@@ -1,0 +1,215 @@
+,sentence,tags
+0,"If driver type is young driver and social status is married and not located in CA, NY or VA, then increase premium by $300.",O B-BAS I-BAS O O O O B-BAS I-BAS O O O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O O O B-DER O O O O 
+1,"If the President dies, resigns, or is removed from office, the Vice President becomes President for the rest of the term",O O B-BAS I-BAS O B-BAS O O O B-BAS I-BAS I-BAS O O O O B-DER I-DER O O O O O O 
+2,If HRR has fewer than 5 HSAs in it decrease SSS by 1,O B-BAS O O O O B-BAS O O O B-DER O O 
+3,Do not travel if you are waiting for results of a COVID-19 test.,O B-DER I-DER O O O O O B-BAS I-BAS I-BAS I-BAS I-BAS O 
+4,"If you haven’t been to any countries on the red list, the rules you have to follow also depend on whether you’re fully vaccinated.",O O O O O O O O B-BAS I-BAS I-BAS I-BAS I-BAS O O B-DER I-DER I-DER I-DER I-DER O O O O O O O B-BAS I-BAS O 
+5,"If young driver is driver type and driver has training certification, then eligible driver.",O O O O B-BAS I-BAS O O O B-BAS I-BAS O O B-DER I-DER O 
+6,"If the car’s price is greater than $45,000, then the car’s potential theft rating is high.",O O B-BAS I-BAS I-BAS I-BAS O O O O O O O O B-DER I-DER I-DER I-DER I-DER I-DER O O O 
+7,"If you have a vaccination or recovery certificate, you do not need to quarantine or get tested.",O O O O B-BAS O B-BAS I-BAS O O O O O O B-DER O B-DER I-DER O 
+8,"A professional status of players is a player who has a written contract with a club and is paid more for his footballing activity than the expenses, otherwise the status of players is amateur.",O O B-DER I-DER I-DER O O O O O O B-BAS I-BAS I-BAS I-BAS I-BAS O O B-BAS O O O O O O O B-BAS O O O O O O O O O 
+9,"If driver type is senior driver and located in CA, NY or VA, then increase premium by $500.",O B-BAS I-BAS O O O O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O O O B-DER O O O O 
+10,"﻿If the customer asks for a loan duration of 36 and her annual income is greater than 56943, then she gets grade “A.”",O O O O O O B-BAS I-BAS O O O O B-BAS I-BAS O O O O O O O O B-DER O O O O 
+11,"You can return to New Zealand if you are a New Zealand citizen.
+",O O B-DER I-DER I-DER I-DER O O O O B-BAS I-BAS I-BAS O 
+12," Do not travel if you are sick.
+",O B-DER I-DER O O O B-BAS O 
+13,Women who have not had children or who had their first child after age 30 have a slightly higher breast cancer risk overall.,B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O O O O B-DER I-DER I-DER O O 
+14,"If however, you find yourself losing more than 2 pounds per week, add 100 calories back into your diet.",O O O O O O O O O O O O O O O O B-BAS O O O B-DER O 
+15,"If the model year is the same as next year, then the car is new.",O O B-BAS I-BAS O O O O B-BAS I-BAS I-BAS O O O B-DER I-DER O 
+16,"In case the type of test is a rapid test, receipt of the result depends on when the test was taken if the test is taken between 6 am and 4 pm, you will receive the result after 4 to maximum  6 hours.",O O O B-BAS I-BAS I-BAS O O O O O B-DER I-DER I-DER I-DER O O B-BAS I-BAS I-BAS I-BAS I-BAS O O O O O O O O O O O O O O O O O O O O O O O O 
+17,You are considered fully vaccinated 2 weeks (14 days) after your dose of an accepted single-dose COVID-19 vaccine or 2 weeks (14 days) after your second dose of an accepted 2-dose series COVID-19 vaccine or 2 weeks (14 days) after you received the full series of an active (not placebo) COVID-19 vaccine in the U.S.-based AstraZeneca or Novavax COVID-19 vaccine trials or 2 weeks (14 days) after you received 2 doses of any “mix-and-match” combination of accepted COVID-19 vaccines administered at least 17 days apart.,O O B-DER I-DER I-DER B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O 
+18,"﻿A record its DataQualityAssessment can be considered as: Usable but assuming High Risk if its DataQuality is Accurate or Correct; Usable and assuming Low Risk, if its DataQuality is Accurate and Correct; and non-usable otherwise.",O O O B-DER O O O O O O O O O O O O B-BAS O O O O O O O O O O O O O B-BAS O O O O O O O O O 
+19,If the car has Driver and Passenger airbags then lower the premium by 15 %.,O O O O O O O B-BAS O O O B-DER O O O O 
+20,"If you don’t meet these requirements, you are NOT fully vaccinated.",O O O O O O B-BAS I-BAS O O O O B-DER I-DER O 
+21,"If the car has no airbags, then the car’s potential occupant injury rating is extremely high.",O O O O O B-BAS O O O B-DER I-DER I-DER I-DER I-DER I-DER I-DER O O O O 
+22,"If the car has driver’s front passenger and side panel air bags, then the car’s potential occupant injury is low.",O O O O O O O O O O O O B-BAS I-BAS O O O B-DER I-DER I-DER I-DER I-DER I-DER O O O 
+23,"You are currently eligible to work in the UK, if you are a British citizen or you are an European Economic Area (EEA) citizen who worked in the UK before 31st Dec 2020.",O O O B-DER I-DER I-DER I-DER I-DER I-DER O O O O O B-BAS I-BAS O O O O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O 
+24,If Number of Orders from this customer between 1 and 10 including bounds add (100 – Number of Orders * 10) to the score.,O B-BAS I-BAS I-BAS O O O O O O O O O O O O O O O O O O O O O B-DER O 
+25,"In case the type of test is a rapid test, receipt of the result depends on when the test was taken if a test is taken between 4pm and midnight, the result will be available between 10am and 12am the next day.",O O O B-BAS I-BAS I-BAS O O O O O B-DER I-DER I-DER I-DER O O B-BAS I-BAS I-BAS I-BAS I-BAS O O O O O O O O O O O O O O O O O O O O O O O 
+26,Raise the premium by $ 150 per accident.,O O B-DER O O O O B-BAS O 
+27,Yellow fever vaccine is recommended for people who are 9 months old or older and who are traveling to or living in areas at risk for yellow fever virus in Africa and South America.,B-DER I-DER I-DER O O O O O O B-BAS I-BAS I-BAS I-BAS I-BAS O O O O O O O O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O O O O O O 
+28,"The more infections in an area, the higher the level of alarm.",O O B-BAS O O O O O O O B-DER I-DER I-DER O 
+29,"If the car only has driver’s air bag, then the car’s potential occupant injury rating is high.",O O O O O O O O B-BAS I-BAS O O O B-DER I-DER I-DER I-DER I-DER I-DER I-DER O O O 
+30,"Receiving a recognised status is possible for students who have a disability or are student athletes or student artists;
+or work their way through university (working students), which implies that they work at least 80 hours per month or are employed on a half-time basis.",O O B-DER I-DER O O O B-BAS I-BAS I-BAS I-BAS I-BAS O O B-BAS I-BAS O B-BAS I-BAS O O O O O O O O B-BAS I-BAS O O B-DER O O O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O O B-BAS I-BAS I-BAS I-BAS I-BAS O 
+31,"But if you have a weak immune system, you will likely be more prone to infection if you are not getting enough sleep.",O O O O O B-BAS I-BAS I-BAS O O O O O O B-DER I-DER I-DER O O O O O O B-BAS O 
+32,"If driver type is young driver and social status is single and not located in CA, NY or VA, then increase premium by $300.",O B-BAS I-BAS O O O O B-BAS I-BAS O O O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O O O B-DER O O O O 
+33,If HRR is among 25 closest to Hospital increase SSS by 1,O B-BAS O O O O O B-BAS O B-DER O O 
+34,"If the Potential Occupant Injury Rating is high, then the auto eligibility is “provisional”. ",O O B-BAS I-BAS I-BAS I-BAS O O O O O B-DER I-DER O O O O O 
+35,"If the Vice President is unable to serve, the next person in the line of succession acts as President.",O O O O O B-BAS I-BAS I-BAS O O O O O O O O O B-DER I-DER I-DER O 
+36,"If the car type is a convertible, then the car’s potential theft rating is high.",O O B-BAS I-BAS O O O O O O B-DER I-DER I-DER I-DER I-DER I-DER O O O 
+37,"If eligibility score is greater than 250, the client is not eligible for auto insurance.",O B-BAS I-BAS O O O O O O O O O B-DER I-DER I-DER I-DER O 
+38,which implies that they work at least 80 hours per month or are employed on a half-time basis.,B-DER O O O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O O B-BAS I-BAS I-BAS I-BAS I-BAS O 
+39,"In case the type of test is a rapid test, receipt of the result depends on when the test was taken if a test is taken between 3.30am and 6am, the result will be available a few hours later between 10am and 12am.",O O O B-BAS I-BAS I-BAS O O O O O B-DER I-DER I-DER I-DER O O B-BAS I-BAS I-BAS I-BAS I-BAS O O O O O O O O O O O O O O O O O O O O O O O O 
+40,If Customer has previous disputes add 190 to the score.,O O O B-BAS I-BAS O O O O B-DER O 
+41,"If a player ranked inside the top 104 is unable to play due to injury or for any other reasons can’t play, then the player that is ranked 105th gets to participate in the tournament instead.",O O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O O O O O O O O O O O O O O O B-DER I-DER I-DER I-DER I-DER I-DER I-DER I-DER I-DER I-DER I-DER I-DER O 
+42,"If your goal is to lose weight, build muscle, and get stronger, you should aim to lose only 0.7% of your bodyweight per week.",O O O O O B-DER I-DER O B-BAS I-BAS O O B-BAS I-BAS O O O O O O O O O O O O O O O 
+43,"If uninsured motorist coverage is included, then increase premium by $300",O O B-BAS I-BAS O O O O O B-DER O O O 
+44,The wall or carport is okay if it does not exceed an average height of 3⋅2 m where the average is calculated after excluding any length that is less than 2 m in height and  a maximum height of 3⋅6 m.,O B-DER O B-DER I-DER I-DER O O O O O O B-BAS I-BAS O O O O O O O O O O O O O O O O O O O O O O B-BAS I-BAS O O O O 
+45,"If the driver has had more than 3 moving violations in the last two years, then the driver risk type qualifies as a High Risk Driver. ",O O O O O O O O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O O O B-DER I-DER I-DER O O O O O O O 
+46,"For immediate, short-term situations, stress can be beneficial to your health.",O O O O O O B-BAS O O O O O B-DER O 
+47,You’re fully vaccinated if you’ve had 2 doses of a coronavirus vaccine and at least 14 days have passed since you got the second dose.,O O O B-DER I-DER O O O O O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O O O O O O O O O O O B-BAS I-BAS O 
+48,"If driver type is young driver and social status is married and located in CA, NY or VA, then increase premium by $700.",O B-BAS I-BAS O O O O B-BAS I-BAS O O O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O O O B-DER O O O O 
+49,"If you have stayed in a very high-risk country for the past 14 days, you need to fill in the PLF at all times, regardless of the length of your stay.",O O O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O O B-BAS I-BAS I-BAS O O O O B-DER I-DER I-DER I-DER O O O O O O O B-BAS I-BAS I-BAS I-BAS O 
+50,"If you want to gain muscle mass, you need to eat more calories than your TDEE.",O O O O B-DER I-DER I-DER O O O O O O B-BAS O B-DER I-DER O 
+51,"An eligible State is a State that has
+made an application and has been selected pursuant to paragraphs
+(2) and (3).",O B-DER I-DER O O O O O B-BAS I-BAS I-BAS O O O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O 
+52,The alarm level is in the Pre-alarm phase with 1 to 14 infections.,O B-DER I-DER O O O O O O O O O B-BAS O 
+53,If there were no previous orders from this customer add 100 to the score.,O O O O B-BAS I-BAS O O O O O O O B-DER O 
+54,"For trials in the District Court and trials in the Court of First Instance, legal aid will be granted if it is desirable in the interests of justice to do so.",O B-BAS I-BAS I-BAS I-BAS I-BAS O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O B-DER I-DER O O O O O O O O O B-BAS I-BAS I-BAS O O O O 
+55,"If the following are not true, then eligible driver is true; if driver type is young driver or senior driver.",O O O O O O O O B-DER I-DER O O O O B-BAS I-BAS O O O O O O O 
+56,"If you’re under chronic stress, your body may not be able to keep up with this extra glucose surge.",O O O O O B-BAS I-BAS O O O O O O O O O O O O B-DER I-DER I-DER O 
+57,Driver type is a typical driver is all of the following are true if driver type is not a young driver or not a senior driver.,B-DER I-DER O O O O O O O O O O O O B-BAS I-BAS O O O O O O O O O O O 
+58,"If driver type is a typical driver, then increase premium by $0.",O B-BAS I-BAS O O O O O O O B-DER O O O O 
+59,If at least one hospital is within 5 km from the Airport increase SSS by 5,O O O O B-BAS O O O O O O B-BAS O B-DER O O 
+60,"If medical coverage is included, then increase premium by $600.",O B-BAS I-BAS O O O O O B-DER O O O O 
+61,"If car is new, then increase premium by $400.",O O B-BAS I-BAS O O O B-DER O O O O 
+62,If Booked Product Type is POST-PAID-HOTEL add 5 to the score.,O B-BAS I-BAS I-BAS O O O O O O B-DER O 
+63,"If one of the parameters above does not apply, or you’re not from one of the countries listed, you are not eligible to work in the UK.",O O O O B-BAS I-BAS O O O O O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O O O O B-DER I-DER I-DER I-DER I-DER I-DER O 
+64,"If car's model year is between 5 and 10 years old, then increase premium by $250.",O O O B-BAS I-BAS O O O O O O O O O O B-DER O O O O 
+65,Do not travel if you have been exposed to COVID-19 unless you are fully vaccinated or recovered from COVID-19 in the past 90 days.,O B-DER I-DER O O O O B-BAS I-BAS I-BAS O O O B-BAS I-BAS O B-BAS I-BAS I-BAS O O B-BAS I-BAS I-BAS O 
+66,If there are between 5 and 15 Hospitals within 25 km of the Airport increase SSS by 3,O O O O O O O B-BAS O O O O O B-BAS O B-DER O O 
+67,"Therefore, organizations are not eligible to participate in the Microsoft nonprofit program if they have a policy or mission of discrimination in hiring, compensation, promotion, termination, retirement, training, programs, and/or services based on race, color, sex, national origin, religion, age, disability, gender identity or expression, marital status, pregnancy, sexual orientation, political affiliation, union membership, or veteran status.",O O O O O B-DER I-DER I-DER I-DER I-DER I-DER I-DER I-DER O O O O B-BAS I-BAS I-BAS I-BAS I-BAS O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O O 
+68,"If the car type is a luxury car, then base premium is $500.",O O B-BAS I-BAS O O O O O O B-DER I-DER O O O O 
+69,"If the car has driver’s and front passenger air bags, then the car’s potential occupant injury rating is moderate.",O O O O O O O O O O B-BAS I-BAS O O O B-DER I-DER I-DER I-DER I-DER I-DER I-DER O O O 
+70,"If you eat well and exercise regularly, but don’t get at least seven hours of sleep every night, you may be undermining all of your other efforts.",O O B-BAS I-BAS O B-BAS I-BAS O O O O O O O O B-BAS I-BAS I-BAS I-BAS O O O O O O O O O O B-DER I-DER O 
+71,"If all of the following are true, then the car’s potential theft rating is low the following being if car’s price is less that $20,000
+or if car model is not on the list of “High Theft Probability Auto”",O O O O O O O O O O B-DER I-DER I-DER I-DER I-DER I-DER O O O O O O B-BAS I-BAS I-BAS I-BAS O O O O O O O B-BAS I-BAS O O O O O O O O O O O O 
+72,"If Potential Occupant Injury is Extremely High, then increase premium by $1,000.",O B-BAS I-BAS I-BAS O O O O O O B-DER O O O O 
+73,"If Potential Occupant Injury is High, then increase premium by $500.",O B-BAS I-BAS I-BAS O O O O O B-DER O O O O 
+74,Students pass a course if they obtain at least a 10 out of 20 as a result or a pass in terms of a pass/fail decision.,O B-DER I-DER I-DER O O O O O O O O O O O O B-BAS O O O O O O O B-BAS I-BAS O 
+75,A vice president can also become the acting president if the president becomes incapacitated.,O O O O O B-DER I-DER I-DER I-DER O O B-BAS I-BAS I-BAS O 
+76,"If the client is eligible for auto insurance, then the annual premium must be determined. ",O O O O B-BAS I-BAS I-BAS I-BAS O O O B-DER I-DER O O O O 
+77,"If driver type is senior driver and driver has training certification, then eligible driver.",O B-BAS I-BAS O O O O O O B-BAS I-BAS O O B-DER I-DER O 
+78,The Alarm level is 3 for infections between 51 and 100.,O B-DER I-DER O O O B-BAS O O O O O 
+79,"To drive a particular type of vehicle, you need an ‘entitlement’ for that category on your driving licence.",O B-DER I-DER I-DER I-DER I-DER I-DER O O O O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O 
+80,"If driver type is High Risk Driver, then increase premium by $1,000.",O B-BAS I-BAS O O O O O O O B-DER O O O O 
+81,"If you’re age is under 18, you should follow the rules for fully vaccinated people if you live in either the UK or live in
+a country with an approved vaccination programme.",O O O O B-BAS O O O O O O B-DER I-DER I-DER I-DER I-DER I-DER I-DER O O B-BAS I-BAS I-BAS I-BAS I-BAS O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O 
+82,"If the car its model year is less than 5 years old, then increase premium by $300.",O O O O B-BAS I-BAS O O O O O O O O O B-DER O O O O 
+83,"If you are you travelling from a green or orange zone, you do not need to get tested or quarantine.",O O O O B-BAS I-BAS I-BAS I-BAS O B-BAS I-BAS O O O O O O B-DER I-DER O B-DER O 
+84,The Congress may expel a member association only at the request of the Council if it loses the status of an association representing association football in its country.,O O O B-DER I-DER I-DER I-DER O O O B-BAS I-BAS I-BAS I-BAS O O O O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O 
+85,"A qualified entity is  any entity if it
+ is eligible for payments under a State plan approved
+under this title  and is determined by the State agency to be capable
+of making determinations",O B-DER I-DER O O O O O O B-BAS I-BAS I-BAS O O O O O O O O O O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS 
+86,The Congress may expel a member association only at the request of the Council if it fails to fulfil its financial obligations towards FIFA.,O O O B-DER I-DER I-DER I-DER O O O B-BAS I-BAS I-BAS I-BAS O O O O O O B-BAS I-BAS I-BAS I-BAS O 
+87,If Booked Product Type is INTERNATIONAL-FLIGHT add 25 to the score.,O B-BAS I-BAS I-BAS O O O O O O B-DER O 
+88,"If the car type is convertible and has no roll bar, then the potential occupant injury is extremely high. ",O O B-BAS I-BAS O O O O O B-BAS I-BAS O O O B-DER I-DER I-DER O O O O 
+89,If HRR has at least 5 HSAs in it increase SSS by 2,O B-BAS O O O O B-BAS O O O B-DER O O 
+90,If HRR overlaps at least two Counties increase SSS by 1,O B-BAS O O O O B-BAS O B-DER O O 
+91,"If the driver gender is male and is under the age of 25, then driver type is young driver.",O O B-BAS I-BAS O O O O O O B-BAS O O O O B-DER I-DER O O O O 
+92,"The average annual wages of an eligible
+small employer for any taxable year is the amount
+determined by dividing the aggregate amount of wages which were
+paid by the employer to employees during the taxable
+year, by the number of full-time equivalent employees
+of the employee determined under paragraph (2) for
+the taxable year.",O B-DER I-DER I-DER I-DER I-DER I-DER I-DER I-DER I-DER I-DER I-DER I-DER O O O O O O O B-BAS I-BAS I-BAS I-BAS O O O O O O O O O O O O O O O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O O O O O O O O O O O 
+93,"The term full-time equivalent employees
+is equal to the number
+determined by dividing the total number of hours of service for which
+wages were paid by the employer to employees during
+the taxable year, by  2,080.",O O B-DER I-DER I-DER O O O O O O O O O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O O B-BAS O 
+94,A long term client has maintained a UServ portfolio for 15 years.,O B-DER I-DER I-DER O O O B-BAS I-BAS O O O O 
+95,Symptoms can become more severe when the demands of adulthood increase.,B-DER O O O O O O B-BAS I-BAS I-BAS O O 
+96,"You won't have to follow the coronavirus rules if you’re coming to the UK from Ireland, coming to the UK from the Channel Islands or coming to the UK from the Isle of Man unless you travelled from somewhere else in the last 10 days.",O O O O O B-DER I-DER I-DER I-DER O O O O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O 
+97,Seek emergency medical help if you have unexplained chest pain that lasts more than a few minutes.,B-DER I-DER I-DER O O O O B-BAS I-BAS I-BAS O O O O O O O O 
+98,"In first instance, the number of infections per 100,000 inhabitants over the previous 14 days is taken into account to determine the level of alarm.",O O O O O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O O O O O O O B-DER I-DER I-DER O 
+99,"Yet if your stress response doesn’t stop firing, and these stress levels stay elevated far longer than is necessary for survival, it can take a toll on your health.",O O O B-BAS I-BAS O O O O O O O O B-BAS I-BAS O O O O O O O O O O O O O O O O O B-DER O 
+100,"If you want to lose fat, you need to eat fewer calories than your TDEE.",O O O O B-DER I-DER O O O O O O B-BAS O B-BAS I-BAS I-BAS 
+101,"If the driver has been convicted of a DUI, then the driver risk type qualifies as a High Risk Driver",O O O O O B-BAS I-BAS I-BAS I-BAS O O O B-DER I-DER I-DER O O O O O O 
+102,A street is a medium street   if it is more than 6 m in width but not exceeding 10 m in width,O O B-DER I-DER I-DER I-DER O O O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS 
+103,If the car only has Driver airbags then lower the premium by 12 %.,O O O O O O B-BAS O O O B-BAS O O O O 
+104,"If driver has taken driver’s training from a licensed driver training company, then driver has training certification.",O O O O B-BAS I-BAS I-BAS I-BAS O O O O O O O O O B-DER I-DER I-DER O 
+105,"If you continue to operate without enough sleep, you may see more long-term and serious health problems.",O O O O O O O B-BAS I-BAS O O O O B-DER I-DER I-DER I-DER I-DER O 
+106,"
+The Congress may expel a member association only at the request of the Council if it seriously violates the Statutes,regulations or decisions of FIFA.",O O O B-DER I-DER I-DER I-DER O O O B-BAS I-BAS I-BAS I-BAS O O O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O 
+107,"If driver type is senior driver and not located in CA, NY or VA, then increase premium by $200.",O B-BAS I-BAS O O O O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O O O B-DER O O O O 
+108,Thermic Effect of Activity is the number of calories burned as a result of exercise,B-DER I-DER I-DER I-DER O O O O O O O O O O B-BAS 
+109,"If none of the following is true, then the auto eligibility is “eligible”; Auto eligibility is “not eligible” or Auto eligibility is “provisional” .",O O O O O O O O O O B-DER I-DER O O O O O B-BAS I-BAS O O O O O O B-BAS I-BAS O O O O O 
+110,If driver has taken driver’s training from school then driver has training certification.,O O O O B-BAS I-BAS I-BAS I-BAS O O O O B-DER I-DER I-DER O 
+111,"If a long term client, the client is always eligible for auto insurance, as is every person and car directly covered by a long term client’s auto policy.",O O B-BAS I-BAS I-BAS O O O O O B-DER I-DER I-DER I-DER O O O O O O O O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O 
+112,If Facility is part of University increase SSS by 1,O B-BAS I-BAS I-BAS I-BAS I-BAS O B-DER O O 
+113,"The cause(s) and risk factors for ADHD are unknown, but current research shows that genetics plays an important role",O B-DER I-DER I-DER I-DER I-DER I-DER I-DER I-DER I-DER O O O O O O O O B-BAS O O O O 
+114,You’ll need to go into quarantine if you’ve been in a country on the red list in the last 10 days or you’re not fully vaccinated or you test positive for coronavirus in the 10 days after you arrive in the UK.,O O O O O B-DER I-DER I-DER O O O O O O O B-BAS I-BAS I-BAS I-BAS I-BAS O O O O O O O O O B-BAS I-BAS I-BAS O O B-BAS I-BAS I-BAS I-BAS O O O O O O O O O O O 
+115,"You can return to New Zealand if you are a New Zealand permanent resident or resident visa holder.
+",O O B-DER I-DER I-DER I-DER O O O O B-BAS I-BAS I-BAS I-BAS O B-BAS I-BAS I-BAS O 
+116,"If you’re eating a high protein diet, you will burn more calories.",O O O O O O O O B-BAS O O O B-DER I-DER I-DER O 
+117,This shows that moderate-intensity physical activity for a 50-year-old person will require that the heart rate remains between 109 and 129 bpm during physical activity.,O O O O B-DER I-DER O O O O O O O O B-BAS I-BAS O O O O O O O O O O 
+118,"If the model year is the same as the current year, then new car.",O O B-BAS I-BAS O O O O O B-BAS I-BAS O O B-BAS I-BAS O 
+119,"You can return to New Zealand if you are an Australian citizen or permanent residence visa holder where New Zealand is your primary place of established residence.
+",O O B-DER I-DER I-DER I-DER O O O O B-BAS I-BAS O B-BAS I-BAS I-BAS I-BAS O O O O O B-BAS I-BAS I-BAS I-BAS I-BAS O 
+120,"In the case of a health plan offered
+in the small group market, the deductible under the plan
+shall not exceed  $2,000 in the case of a plan covering a single
+individual; and $4,000 in the case of any other plan.",O O O O O O O O O O O B-BAS I-BAS O O B-DER I-DER I-DER I-DER O O O O O O O O O O O B-BAS I-BAS I-BAS I-BAS O O O O O O O O O O O O 
+121,"The Twenty-fifth Amendment (Amendment XXV) to the United States Constitution says that if the President becomes unable to do their job, the Vice President becomes the President.",O O O O O O O O O O O O O O O O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O O O O B-DER I-DER I-DER O 
+122,If Booked Product Type is CAR add 10 to the score.,O B-BAS I-BAS I-BAS O O O O O O B-DER O 
+123,"If the car has Driver, Passenger and Side airbags then lower the premium by 18 %.",O O O O O O O O O B-BAS O O O B-DER O O O O 
+124,"﻿Given that the length of a String must be longer than 6, if the length of an input String is from 3 to 6 then it returns ‘A’ for BR.DV, else if it is from 6 to 9 then it returns ‘B’ for BR.DV, and ‘C’ for BR.DV is returned otherwise.",O O O B-BAS I-BAS I-BAS I-BAS O O O O O O O O O O O O O O O O O O O O O O O O O B-DER O O O O O O O O O O O O O O O O B-DER O O O O O O B-DER O O O O 
+125,"If the car model is on the list of “High Theft Probability Auto”, then the car’s potential theft rating is high. ",O O B-BAS I-BAS O O O O O O O O O O O O O O B-DER I-DER I-DER I-DER I-DER I-DER O O O 
+126,"For appeal cases, legal aid will be granted if there are reasonable grounds for appeal and it is in the interests of justice to do so.",O B-BAS I-BAS O B-DER I-DER O O O O O O B-BAS I-BAS I-BAS I-BAS O O O O O B-BAS I-BAS I-BAS O O O O 
+127,"You are eligible to work in the UK, and therefore don’t need to obtain a work permit, if any of the following apply you are a British citizen or you are an European Economic Area (EEA) citizen or you are a Swiss national.
+",O O B-DER I-DER I-DER I-DER I-DER I-DER O O O O O O O O O O O O O O O O O O O O O O B-BAS I-BAS O O O O B-BAS I-BAS I-BAS O O O O O O O O B-BAS I-BAS O 
+128,"If the Potential Occupant Injury Rating is extremely high, then the auto eligibility is “not  eligible”.",O O B-BAS I-BAS I-BAS I-BAS O O O O O O B-DER I-DER O O O O O O 
+129,"Your concentration, creativity, and problem-solving skills aren’t up to par when you don’t get enough rest.",O B-DER O B-DER O O B-DER I-DER O O O O O O O O O O O O O B-BAS O 
+130,If Booked Product Type is PRE-PAID-HOTEL add 5 to the score.,O B-BAS I-BAS I-BAS O O O O O O B-DER O 
+131,"The PLF needs to filled in by all people travelling to Belgium, except if they are staying for less than 48 hours in Belgium, if they are returning to Belgium after a stay abroad of less than 48 hours.",O B-DER I-DER I-DER I-DER O O O O B-BAS I-BAS I-BAS O O O O O O O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O O O O B-BAS I-BAS I-BAS O O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O 
+132,Whether you qualify for legal aid will depend on the type of case and your financial circumstances.,O O B-DER I-DER I-DER I-DER O O O O B-BAS I-BAS I-BAS O B-BAS I-BAS I-BAS O 
+133,"If driver type is young driver and social status is single and located in CA, NY or VA, then increase premium by $720.",O B-BAS I-BAS O O O O B-BAS I-BAS O O O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O O O B-DER O O O O 
+134,If no Hospital is within 10 km from the Airport increase SSS by 1,O O B-BAS O O O O O O B-BAS O B-DER O O 
+135,You can return to New Zealand if you hold a critical purpose visa.,O O O O B-DER I-DER O O O O B-BAS I-BAS I-BAS O 
+136,"If you enjoy eating a higher fat diet, use the 0.5g/lb multiplier, and if you enjoy a higher carb, lower fat diet use 0.3g/lb multiplier.",O O O O O O O B-DER I-DER O O O B-BAS O O O O O O O O O O O B-DER O O B-BAS O 
+137,"All states prohibit providing alcohol to persons under 21, although states may have limited exceptions relating to lawful employment, religious activities, or consent by a parent, guardian, or spouse. ",O O O B-DER I-DER I-DER I-DER I-DER I-DER O O O O O O O O O B-BAS I-BAS O B-BAS I-BAS O O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O 
+138,If more than 1200 Residences within 15 km from the Hospital increase SSS by 2,O O O O B-BAS O O O O O B-BAS O B-DER O O 
+139,A street is a narrow street if it is 6 m or less in width;,O O B-DER I-DER I-DER I-DER O O O O O O O O B-BAS O 
+140,Travellers coming from New Zealand do not need to complete a 14-day mandatory quarantine if they travelled on a green zone flight and have been only in New Zealand territory (New Zealand and Tokelau) or Australia for at least the 14 days immediately before the date of departure. ,B-BAS I-BAS I-BAS I-BAS I-BAS O O O O B-DER I-DER I-DER I-DER I-DER O O O O O B-BAS I-BAS I-BAS O O O B-BAS I-BAS I-BAS I-BAS I-BAS O O O O O O O B-BAS O O O O O O O O O B-BAS I-BAS I-BAS O 
+141,If HRR touches HSA increase SSS by 1,O B-BAS O B-BAS O B-DER O O 
+142,"﻿If the customer asks for a loan duration of 60, then she gets grade “B.”",O O O O O O B-BAS I-BAS O O O O O O B-DER O O O O 
+143,"If a candidate wins a majority of first-preference votes, he or she is declared the winner.",O O O O O B-BAS I-BAS I-BAS I-BAS O O O O O B-DER I-DER I-DER O 
+144,"If client type is a preferred client, lower the premium by $250.",O B-BAS I-BAS O O O O O O O B-DER O O O O 
+145,The area of a circle is pi times the radius squared.,O B-DER I-DER I-DER I-DER O B-BAS O O B-BAS I-BAS O 
+146,You are fully vaccinated 2 weeks after your last vaccination dose and if the vaccine is EMA-certified or Covishield.,O O B-DER I-DER B-BAS I-BAS O O B-BAS I-BAS I-BAS O O O B-BAS I-BAS I-BAS O B-BAS O 
+147,If HRR contains HSA within 5 km increase SSS by 2,O B-BAS O B-BAS O O O O B-DER O O 
+148,"Do not travel if you tested positive for COVID-19 and haven't ended isolation.
+",O B-DER I-DER O O B-BAS I-BAS I-BAS I-BAS O O O O B-BAS O 
+149,"﻿If the customer asks for a loan duration of 36 and her annual income is less than or equal to 56943, then she gets grade “C.”",O O O O O O B-BAS I-BAS O O O O B-BAS I-BAS O O O O O O O O O O O B-DER O O O O 
+150,Airline crew are not permitted to operate green zone flights unless they have only been in Australia or only been in New Zealand for the previous 14 days.,B-BAS I-BAS O O O O B-DER I-DER I-DER I-DER O O O B-BAS I-BAS I-BAS I-BAS O B-BAS I-BAS I-BAS I-BAS I-BAS O O O O O O 
+151,The rules for fully vaccinated people will also apply if you are either under 18 of age and resident in the UK or one of the listed countries or territories with approved vaccination programmes or if you are taking part in an approved COVID-19 vaccine trial in the UK or USA.,O B-DER I-DER I-DER I-DER I-DER O O O O O O O O O O B-BAS O B-BAS I-BAS I-BAS I-BAS O O O O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O O O O O O O O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O 
+152,"You must always fill in the PLF if you travel by plane or boat, even if you are staying in Belgium for less than 48 hours or were abroad for less than 48 hours.",O O O B-DER I-DER I-DER I-DER O O B-BAS I-BAS I-BAS O B-BAS O O O O O O O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O 
+153,"If no candidate wins a majority of first-preference votes, the candidate with the fewest first-preference votes is eliminated. ",O O O O O B-BAS I-BAS I-BAS I-BAS O O O O O O O O B-DER I-DER O 
+154,"If Potential Theft is High, then increase premium by $500.",O B-BAS I-BAS O O O O O B-DER O O O O 
+155,"If eligibility score is between 100 and 250 inclusive, then the client’s application/policy renewal must be reviewed by underwriting manager who will determine whether the client is eligible for auto insurance.",O B-BAS I-BAS O O O O O O O O O B-BAS I-BAS I-BAS I-BAS I-BAS O O O O O O O O O O O O O B-DER I-DER I-DER I-DER O 
+156,"If the number of accidents the applicant has been involved in is greater than 2, then the driver risk type qualifies as a High Risk Driver.",O O B-BAS I-BAS I-BAS O O O O O O O O O O O O O B-DER I-DER I-DER O O O O O O O 
+157,"If client type is an elite client, then lower the premium by $500.",O B-BAS I-BAS I-BAS O O O O O O O B-DER O O O O 
+158,"You must always fill in the PLF if you travel by train or bus from a country outside the EU or Schengen area, even if you are staying in Belgium for less than 48 hours or were abroad for less than 48 hours.",O O O B-DER I-DER I-DER I-DER O O B-BAS I-BAS I-BAS O B-BAS O O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O O O O O O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O 
+159,The alarm level is 4 for more than 100 infections.,O B-DER I-DER O O O O O O B-BAS O 
+160,"If the driver is over the age of 70, then the driver type is senior driver.",O O O O O O B-BAS O O O O O B-DER I-DER O O O O 
+161,"If driver had taken a senior citizen driver’s refresher course, then driver has training certification.",O O O O O B-BAS I-BAS I-BAS I-BAS I-BAS I-BAS I-BAS O O O B-DER I-DER I-DER O 
+162,"If you sleep less than five hours a night, your risk for high blood pressure increases.",O O B-BAS O O O O O O O O O O O B-DER I-DER O O 
+163,"If eligibility score is less that 100, then client is eligible for insurance.",O B-BAS I-BAS O O O O O O O O B-DER I-DER I-DER O 
+164,"There is no alarm if there are no or only a few sporadic infections.
+",O O O B-BAS O O O O O O O O O B-DER O 
+165,"The Alarm level is 1 for infections between 15 and 30.
+",O B-DER I-DER O O O B-BAS O O O O O 
+166,An applicant who passes both means test and merit test is eligible for legal aid.,O O O O O B-BAS I-BAS O B-BAS I-BAS O B-DER I-DER I-DER I-DER O 
+167,"If all of the following are true, then the car’s potential theft rating is moderate the following being if car’s price is between $20,000 and $45,000 or if car model is not on the list of “High Theft Probability Auto”",O O O O O O O O O O B-DER I-DER I-DER I-DER I-DER I-DER O O O O O O B-BAS I-BAS I-BAS I-BAS O O O O O O O O O B-BAS I-BAS O O O O O O O O O O O O 
+168,"If you’ve been in a country on the red list, you’ll have to stay at a quarantine hotel for 10 days after you arrive.",O O O O O O O B-BAS I-BAS I-BAS I-BAS I-BAS O O O O O O B-DER I-DER I-DER I-DER I-DER O O O O O O O 
+169,"If the car type is sedan, then base premium is $400.",O O B-BAS I-BAS O O O O B-DER I-DER O O O O 
+170,"If the driver gender is female and is under the age of 20, then driver type is young driver.",O O B-BAS I-BAS O O O O O O B-BAS O O O O B-DER I-DER O O O O 
+171,"If the car type is compact car, then base premium is $250.",O O B-BAS I-BAS O O O O O B-DER I-DER O O O O 
+172,"﻿A record its DataQuality can be considered as Dramatically Non-Accurate if the output of datavalue is ‘A’, and Accurate if the output of datavalue is ‘B’ or ‘C’.",O O O B-DER O O O O O O O O B-BAS I-BAS I-BAS O O O O O O O O O B-BAS I-BAS I-BAS O O O O O O O O O 
+173,"If the CNS fails to return to normal, or if the stressor doesn’t go away, the response will continue.",O O B-BAS O O O O O O O O O B-BAS O O O O O O O B-DER O O O 
+174," If the president dies, resigns or is removed from office, the vice president automatically becomes president.",O O B-BAS I-BAS O B-BAS O O B-BAS I-BAS I-BAS O O O O O B-DER I-DER O 
+175,"If the car’s potential theft rating is high and the car is equipped with an alarm system, then lower the premium by 10%.",O O O O O B-BAS I-BAS I-BAS O O O O O O B-BAS I-BAS I-BAS I-BAS I-BAS O O O O B-DER O O O O 
+176,"If the Potential Theft Rating is high, then the auto eligibility is “provisional”. ",O O B-BAS I-BAS I-BAS O O O O O B-DER I-DER O O O O O 
+177,If Booked Product Type is INTERNAL-FLIGHT add 100 to the score.,O B-BAS I-BAS I-BAS O O O O O O B-DER O 
+178,"An individual
+is not a qualified individual if, at
+the time of enrollment, the individual is incarcerated,
+other than incarceration pending the disposition of
+charges.",O O B-DER I-DER I-DER I-DER I-DER O O O O B-BAS I-BAS I-BAS O O O O B-BAS O O O O B-BAS I-BAS I-BAS I-BAS I-BAS O 
+179,The Alarm level is 2 for infections between 31 and 50.,O B-DER I-DER O O O B-BAS O O O O O 
